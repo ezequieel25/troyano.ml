@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(20, 20, 20);
+         margin-left: 7cm;
+         margin-right: 7cm;
+         text-align: left;
+         text-align: justify;
+         margin-bottom: 5cm;
+         color: rgb(194, 194, 194);
+    }
+    
+    .cont1 {
+        text-align: center;
+    }
+    
+    h1{
+        font-size: 2em;
+    }
+    .titulo{
+    text-align: center;
+    }
+    .preguntas{
+        text-align: center;
+        font-weight: 500;
+        text-decoration: underline;
+    }
+    
+    p {
+        font-size: 1.4em;
+    }
+    .ft1{
+        width: 40%;
+        margin: auto;
+    }
+    .tiposdetroyanos{
+        text-align: center;
+        text-decoration: underline;
+    }
+    .tipos{
+        text-align: left;
+    }
+    #video{
+        text-align: center;
+    }
+    .link{
+
+    color: rgb(194, 194, 194);
+    text-decoration: underline;
+    
+    }
+    
